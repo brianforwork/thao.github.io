@@ -1,25 +1,20 @@
-title: |
-  <div style="text-align: center;">
-    <h1>Thao Nguyen</h1>
-  </div>
+title: <p align="center"> Thao Nguyen </p>
 
-  description: |
-  <div style="text-align: center; margin-top: 20px;">
-    <img src="/images/picture.png?raw=true" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; margin-bottom: 20px;">
-    <h1>Thao Nguyen</h1>
-    <div>
-      <a href="https://www.linkedin.com/in/thao-nguyen-b65597288/" target="_blank">LinkedIn</a> |
-      <a href="https://github.com/thaonguyen2005-work" target="_blank">GitHub</a>
-    </div>
-  </div>
-  <div style="text-align: justify; margin: 20px auto; max-width: 600px; line-height: 1.6; font-size: 16px;">
-    <p>
-      I am a sophomore majoring in Quantitative Economics and Data Analytics.
-      <br><br>
-      I am passionate about leveraging data to shape business decisions and enhance operations. 
-      Through both coursework and hands-on experience, I have developed strong skills in R, SQL, Python, and Power BI 
-      to transform complex datasets into actionable insights.
-      <br><br>
-      Feel free to contact me at: <a href="mailto:thaonguyenth2005@gmail.com">thaonguyenth2005@gmail.com</a>
-    </p>
-  </div>
+logo: "/images/picture.png?raw=true"
+
+description: >
+  <p align="center">
+    <a href="https://www.linkedin.com/in/thao-nguyen-b65597288/">LinkedIn</a> |
+    <a href="https://github.com/thaonguyen2005-work">GitHub</a>
+  </p>
+
+  <p align="justify">
+    I am a sophomore majoring in Quantitative Economics and Data Analytics. 
+    <br><br>
+    I am passionate about leveraging data to shape business decisions and enhance operations. 
+    <br><br>
+    Feel free to contact me at: thaonguyenth2005@gmail.com
+    <br><br>
+  </p>
+
+theme: jekyll-theme-minimal
