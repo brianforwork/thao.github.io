@@ -2,19 +2,19 @@ title: <p align="center"> Thao Nguyen </p>
 
 logo: "/images/picture.png?raw=true"
 
-description: >
+description:
   <p align="center">
-    <a href="https://www.linkedin.com/in/thao-nguyen-b65597288/">LinkedIn</a> |
-    <a href="https://github.com/thaonguyen2005-work">GitHub</a>
+  <a href="https://www.linkedin.com/in/thao-nguyen-b65597288/">LinkedIn</a> |
+  <a href="https://github.com/thaonguyen2005-work">GitHub</a>
   </p>
-
+  
   <p align="justify">
-    I am a sophomore majoring in Quantitative Economics and Data Analytics. 
-    <br><br>
-    I am passionate about leveraging data to shape business decisions and enhance operations. 
-    <br><br>
-    Feel free to contact me at: thaonguyenth2005@gmail.com
-    <br><br>
+  I am a sophomore majoring in Quantitative Economics and Data Analytics. 
+  <br><br>
+  I am passionate about leveraging data to shape business decisions and enhance operations. 
+  <br><br>
+  Feel free to contact me at: thaonguyenth2005@gmail.com
+  <br><br>
   </p>
-
+  
 theme: jekyll-theme-minimal
