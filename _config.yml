@@ -4,17 +4,20 @@ logo: "/images/picture.png?raw=true"
 
 description:
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/chriskhanhtran/">LinkedIn</a> |
-  <a href="https://github.com/chriskhanhtran">GitHub</a>
+  <a href="https://www.linkedin.com/in/thao-nguyen-b65597288/">LinkedIn</a> |
+  <a href="https://github.com/thaonguyen2005-work">GitHub</a>
   </p>
   
   <p align="justify">
-  I am pursing MS degree in Business Analytics at Simon Business School, University of Rochester.
+  I am a sophomore majoring in Data Analytics and Quantitative Economics at Dickinson College. 
   <br><br>
-  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
+  My journey into the world of data began when I realized its power to transform numbers into actionable insights. For me, working with data is like solving a complex puzzle—cleaning messy datasets, uncovering insights, and visualizing them in a way that sparks clarity and drives decisions.
+  <br><br>
+  I frequently use Excel, SQL, Python, and R to clean, analyze, and manipulate datasets, while leveraging Power BI and Tableau to design intuitive dashboards that empower stakeholders to make data-informed decisions.
+  <br><br>
+  Feel free to contact me at: thaonguyenth2005@gmail.com.
   <br><br>
   </p>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-145578661-1 # Google Analytics tracking ID
+
